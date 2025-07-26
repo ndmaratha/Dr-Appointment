@@ -1,6 +1,13 @@
 # Full Stack Doctors Appointment Platform 🏥
 
 A modern telemedicine platform built with cutting-edge technologies to facilitate doctor-patient interactions, appointment scheduling, and video consultations.
+<img width="937" height="422" alt="No dr Available" src="https://github.com/user-attachments/assets/db7d1d2f-c8ce-4095-9fc1-0df4f294d825" />
+<img width="938" height="427" alt="my appoinment" src="https://github.com/user-attachments/assets/bbb0ec82-ae25-4a1b-a295-eae500433b21" />
+<img width="946" height="433" alt="dr speciality" src="https://github.com/user-attachments/assets/824b5be5-8298-4f7c-b5c0-aadaa4517c49" />
+<img width="782" height="425" alt="dr dashboard" src="https://github.com/user-attachments/assets/f7998f7e-9fb6-484a-948f-6512c64c26ef" />
+<img width="933" height="420" alt="available dr" src="https://github.com/user-attachments/assets/96cc0123-602d-4c27-8f58-ebc2fcea8030" />
+<img width="385" height="415" alt="appointment details" src="https://github.com/user-attachments/assets/b3d4bcfa-5ceb-4773-b1dd-32a3bef43e57" />
+<img width="958" height="416" alt="admin dashboard" src="https://github.com/user-attachments/assets/58085469-6f70-4af4-a82b-5f78b73f305a" />
 
 ## 🚀 Tech Stack
 
